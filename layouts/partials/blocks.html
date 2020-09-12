@@ -1,0 +1,26 @@
+<div id="o-meni" class="blocks">
+    {{ range .Params.blocks }}
+        {{ if eq .position "left" }}
+            <div class="row left">
+                <div class="col">
+                    <img class="blockpic" src="{{ .image }}">
+                </div>
+                <div class="col">
+                    <div>{{ .content | markdownify }}</div>
+                </div>
+            </div>
+    
+        {{ end }}
+
+        {{ if eq .position "right" }}
+            <div class="row right">
+                <div class="col">
+                    <div>{{ .content | markdownify }}</div>
+                </div>
+                <div class="col">
+                    <img class="blockpic" src="{{ .image }}">
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>  

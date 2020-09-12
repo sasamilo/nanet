@@ -1,0 +1,21 @@
+<section class="about">
+    <div class="hero-page">
+        <div class="row about">
+            <div class="col herotext">
+                <h1 class="hero-title">Gremo na net!</h1>
+                <p>{{ .Params.about }}</p>
+                <button type="button" class="btn btn-primary">Pošlji sporočilo</button>
+               <div class="social"> 
+                   {{ range .Params.socialLinks }}
+                        <a href="{{ .URL }}"><i class="{{ .icon }}"></i></a>
+                    {{ end }}
+                </div>
+            </div>
+
+            <div class="col">
+                <img class="hero" src="{{ .Params.hero }}">
+            </div>
+        </div>
+    </div>
+</section> 
+

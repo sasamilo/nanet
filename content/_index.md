@@ -1,5 +1,5 @@
 ---
-title: "NAnet"
+title: "Gremo"
 date: 2020-09-03T19:56:10+02:00
 draft: true
 hero: /image/hero.jpg
@@ -94,6 +94,7 @@ gallery:
 testimonial:
   - name: Petra Poznič
     business: Telovadnica Atlet
+    image: /reference/atlet_logo.jpg
     content: his is a Spotlight element, and it's generally used – as its name implies – to spotlight a particular feature, subject, or pretty much whatever. You can customize its style, scheme, color, orientation, content a
   - name: Someone Else
     business: eaglerare

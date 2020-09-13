@@ -1,18 +1,24 @@
-<section class="offer">
-     <h2>Ponudba</h2>
-    <div class="ponudba">
-        <div class="row row-no-gutters">
-            
-            {{ range .Params.offer }}
-            <div class="col-xs-6 col-md-4">  
-                <div class="name">
-                <h4 class="offer-names" >{{ .name }}</h4>
-            </div> 
-            <div>
-                <p>{{ .content | markdownify }}</p>
+<div id="offer" class="offer-space scroll-fix">
+    <section class="offer">
+        <h2>Ponudba</h2>
+        <div class="ponudba">
+            <div class="row row-no-gutters">
+                
+                {{ range .Params.offer }}
+                <div class="col-xs-6 col-md-4">  
+                    <div class="name">
+                    <h4 class="offer-names" >{{ .name }}</h4>
+                </div> 
+                <div>
+                    <p>{{ .content | markdownify }}</p>
+                </div>
+                </div>
+                {{ end }}
             </div>
-            </div>
-            {{ end }}
         </div>
-    </div>
-</section>
+    </section>
+    <blockquote class="blockquote">
+        <h4>Vizija</h4>
+        <p class="mb-0">Opolnomočiti male podjetnike za vstop v digitalno prihodnost.</p>
+    </blockquote>
+</div>

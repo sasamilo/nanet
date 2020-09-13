@@ -9,13 +9,21 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 
+body p {
+    font-size: 1em;
+}
+
 .header {
     font-family: 'Rubik', sans-serif;
 }
 
+.logo-top {
+    font-size: 25px;
+}
+
 .logo-bottom {
     font-family: 'Meddon', cursive;
-    font-size: 32px;
+    font-size: 35px;
     margin-top: -25px;
 }
 
@@ -61,7 +69,7 @@ body {
 .burger div {
     width: 25px;
     height: 3px;
-    background-color: blue;
+    background-color: lightcoral;
     margin: 5px;
     transition: all 0.3s ease;
 }
@@ -133,6 +141,7 @@ h2 {
     font-weight: bold;
     font-size: 2.5em;
     font-family: 'Meddon', cursive;
+    padding-bottom: 15px;
 }
 
 h4 {
@@ -178,8 +187,9 @@ h4 {
     color: lightslategray;
 }
 
-.o-meni {
-    padding-top: -100px;
+.scroll-fix {
+    margin-top: -79px;
+    padding-top: 79px;
 }
 
 .about {
@@ -206,6 +216,10 @@ h4 {
     background-color: slategray;
 }
 
+.offer-space {
+    padding-top: 150px;
+}
+
 .offer {
     align-content: center;
 }
@@ -218,8 +232,9 @@ h4 {
     padding: 50px 0 20px 0;
 }
 
-.testimonials {
-    padding: 20px 0 10px 0;
+.reflogo img {
+    max-width: 100%;
+    height: 40px;
 }
 
 .showcase {
@@ -247,10 +262,6 @@ h4 {
     padding-bottom: 20px;
 }
 
-.blocks {
-    padding: 50px 0 50px 0;
-}
-
 #about {
     padding-top: 100px;
 }
@@ -261,6 +272,8 @@ h4 {
 
 .contact-title {
     padding: 50px 0 20px 0;
+    font-family: 'Rubik', sans-serif;
+    font-weight: normal;
 }
 
 .msg-text {
@@ -301,7 +314,12 @@ h4 {
 }
 
 .copyright {
-    padding: 20px 0 30px 0;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.disclosure {
+    padding-bottom: 20px;
     text-align: center;
     font-size: small;
     font-weight: lighter;

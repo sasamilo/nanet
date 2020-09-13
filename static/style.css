@@ -59,7 +59,7 @@ body p {
 }
 
 .nav-links a:hover {
-    color: salmon;
+    color: lightsalmon;
 }
 
 .burger {
@@ -188,8 +188,8 @@ h4 {
 }
 
 .scroll-fix {
-    margin-top: -79px;
-    padding-top: 79px;
+    margin-top: -90px;
+    padding-top: 90px;
 }
 
 .about {
@@ -207,13 +207,13 @@ h4 {
 .btn {
     color: snow;
     border: none;
-    background-color: salmon;
+    background-color: lightsalmon;
     transition: all .3s ease-in;
 }
 
 .btn:hover {
     color: snow;
-    background-color: slategray;
+    background-color: orange;
 }
 
 .offer-space {
@@ -226,6 +226,15 @@ h4 {
 
 .offer-names {
     font-size: 2em;
+}
+
+.blockquote {
+    padding-left: 1em;
+    border-left: 3px solid lightsalmon;
+}
+
+.vizija {
+    padding: 100px 0 100px 120px;
 }
 
 .testimonials h2 {
@@ -291,7 +300,7 @@ h4 {
 
 .address {
     justify-content: center;
-    padding: 100px;
+    padding: 120px;
     font-weight: lighter;
 }
 

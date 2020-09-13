@@ -1,8 +1,8 @@
 ---
-title: "Gremo"
+title: "NAnet"
 date: 2020-09-03T19:56:10+02:00
 draft: true
-hero: /image/hero.jpg
+hero: /image/20200913-sasa-portraits-robbymilo-0209.jpg
 about: Imaš malo podjetje in potrebuješ novo spletno stran, pa ne veš kje bi začel? Začniva s tvojo zgodbo...
 
 socialLinks:
@@ -16,7 +16,7 @@ socialLinks:
 blocks:
   - position: right
     title: O meni
-    image: /image/spotlight.jpg
+    image: /image/20200913-sasa-portraits-robbymilo-0071.jpg
     content: >-
       ## Moja zgodba
 
@@ -33,7 +33,7 @@ blocks:
       [preberi več](/learnmore)
   - position: left
     title: Ponudba
-    image: /image/spotlight.jpg
+    image: /image/20200913-sasa-portraits-robbymilo-0085.jpg
     content: >-
       ## Kako začneva
 

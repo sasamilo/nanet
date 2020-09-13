@@ -1,4 +1,4 @@
 baseURL = "https://nanet.si/"
 languageCode = "en-us"
-title = "NAnet"
+title = "nanet.si"
 disableKinds = ["taxonomy", "term"]

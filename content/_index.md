@@ -46,6 +46,7 @@ blocks:
       [preberi več](/learnmore)
 offer:
   - name: Grič
+    icon: 
     business: Blabla
     content: >-
       posvet 1:1
@@ -56,6 +57,7 @@ offer:
 
       prevod EN/SLO
   - name: Hrib
+    icon: 
     business: Primer
     content: >-
       posvet 1:1
@@ -69,6 +71,7 @@ offer:
 
       prevod EN/SLO
   - name: Gora
+    icon: fas fa-mountain
     business: Samo za šalo
     content: >-
       posvet 1:1

@@ -1,16 +1,18 @@
 <section class="offer">
      <h2>Ponudba</h2>
-     <div class="row row-no-gutters">
-        
-        {{ range .Params.offer }}
-        <div class="col-xs-6 col-md-4">  
-            <div class="name">
-              <h4 class="offer-names" >{{ .name }}</h4>
-           </div> 
-           <div>
-              <p>{{ .content }}</p>
-           </div>
+    <div class="ponudba">
+        <div class="row row-no-gutters">
+            
+            {{ range .Params.offer }}
+            <div class="col-xs-6 col-md-4">  
+                <div class="name">
+                <h4 class="offer-names" >{{ .name }}</h4>
+            </div> 
+            <div>
+                <p>{{ .content | markdownify }}</p>
+            </div>
+            </div>
+            {{ end }}
         </div>
-        {{ end }}
-     </div>
+    </div>
 </section>

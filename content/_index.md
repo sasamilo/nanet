@@ -45,26 +45,44 @@ blocks:
 
       [preberi več](/learnmore)
 offer:
-  - name: Paket Jošt
+  - name: Grič
     business: Blabla
     content: >-
       posvet 1:1
+
+
       spletna stran
+
+
       prevod EN/SLO
-  - name: Paket Storžič
+  - name: Hrib
     business: Primer
     content: >-
       posvet 1:1
+
+
       spletna stran
+
+
       domena/SSL
+
+
       prevod EN/SLO
-  - name: Paket Triglav
+  - name: Gora
     business: Samo za šalo
     content: >-
       posvet 1:1
+
+
       spletna stran
+
+
       prevod EN/SLO
+
+
       domena/SSL
+
+
       10 fotografij
 gallery:
   title: Galerija

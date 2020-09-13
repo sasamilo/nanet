@@ -47,6 +47,7 @@ body {
     text-decoration: none;
     color: lightslategray;
     transition: all .3s ease-in;
+    font-weight: lighter;
 }
 
 .nav-links a:hover {
@@ -225,6 +226,15 @@ h4 {
     padding: 20px 0 50 0;
 }
 
+.ponudba {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.name {
+    padding-bottom: 10px;
+}
+
 #gallery {
     padding-top: 100px;
 }
@@ -269,6 +279,7 @@ h4 {
 .address {
     justify-content: center;
     padding: 100px;
+    font-weight: lighter;
 }
 
 .sponsors {

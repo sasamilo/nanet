@@ -20,30 +20,27 @@ blocks:
     content: >-
       ## Moja zgodba
 
-      Ko sem se po 10ih letih življenja v Združenih državah vrnila v Slovenijo, sem opazila več razlik v iskanju informacij. 
+      Leta 2009 me je uspeh v rezultatih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State univerzi in prejela naziv magistre komunikologije.  
 
       
-      V tujini sem se predvsem zanašala na iskanje po spletu, v Sloveniji pa opazila priložnost za izboljšanje promocije malih podjetij in kmetovalcev s tradicijo na spletu. 
-
-
-      Tako sem se odločila, da leta izkušenj iz tujine združim z napredno tehnologijo in ponudim celostni pristop razvoja zgodb malih podjetij za vstop v digitalni svet.
+      V letih življenja v tujini sem delovala v neprofitnih organizacijah, ter se izpopolnjevala na področju podjetništva v lokalni gospodarski zbornici za razvoj mladih strokovnjakov. Zaradi obsežnosti in hitrega tempa družbe sem se tako pri delu, kot tudi v prostem času zanašala na iskanje informacij po spletu. Po vrnitvi v Slovenijo pa sem opazila potencial za promocijo malih podjetij in kmetovalcev ter predstavitev visoke kakovosti ponudbe celemu svetu.
       
 
 
-      [preberi več](/learnmore)
+      Od tod se je rodila ideja 'NA net,' podjetja s celostnim pristopom, ki bi nudilo vzpodbudo in podporo, ter z napredno tehnologijo razvijalo zgodbe malih podjetij in kmetovalcev za preboj v digitalno prihodnost. Kot rezultat pa razširilo ponudbo po Evropi in v svetu.
+      
+
   - position: left
     title: Ponudba
     image: /image/20200913-sasa-portraits-robbymilo-0085.jpg
     content: >-
-      ## Kako začneva
+      ## Kako začneva?
 
-      Vsi imamo nekaj v sebi, kar nas naredi posebne, v to sem prepričana. Zdi pa se mi, da včasih lažje prepoznamo dobre vrline v drugih. Tudi jaz jih, še posebej v tistih, ki ponujajo vrhunsko kvaliteto, vendar te svoje skrivnosti še niso predstavili svetu. 
-      
-
-      Tako se je porodila ideja 'NA net.' Moj namen je osvetliti vašo zgodbo in vas ponesti na svetovni splet.
+      Vsi imamo nekaj v sebi, kar nas naredi posebne, v to sem prepričana. Zdi pa se mi, da je včasih lažje prepoznati dobre vrline v drugih. Jaz jih vedno znova v ponudnikih vrhunske kvalitete, ki pa te svoje skrivnosti še niso predstavili svetu. 
 
 
-      [preberi več](/learnmore)
+
+
 offer:
   - name: Grič
     icon: 
@@ -52,7 +49,10 @@ offer:
       posvet 1:1
 
 
-      spletna stran
+      domena/SSL
+
+
+      1 spletna stran
 
 
       prevod EN/SLO
@@ -63,13 +63,16 @@ offer:
       posvet 1:1
 
 
-      spletna stran
-
-
       domena/SSL
 
 
+      do 5 podstrani
+
+
       prevod EN/SLO
+
+
+      10 fotografij
   - name: Gora
     icon: fas fa-mountain
     business: Samo za šalo
@@ -77,13 +80,13 @@ offer:
       posvet 1:1
 
 
-      spletna stran
+      domena/SSL
+
+
+      do 10 podstrani
 
 
       prevod EN/SLO
-
-
-      domena/SSL
 
 
       10 fotografij
@@ -98,7 +101,7 @@ testimonial:
   - name: Petra Poznič
     business: Telovadnica Atlet
     image: /reference/atlet_logo.jpg
-    content: his is a Spotlight element, and it's generally used – as its name implies – to spotlight a particular feature, subject, or pretty much whatever. You can customize its style, scheme, color, orientation, content a
+    content: Saša je postavila in oblikovala spletno stran od začetka do konca, pri tem je bila zelo hitra, natančna in inovativna. Upoštevala je moje želje ob tem pa s svojimi idejami in vizijo naredila stran pregledno in moderno. Zares najboljša izbira, če niste prepričani kako predstaviti in približati svoj izdelek svetu. Saša je zanesljiva, zagnana in s pozitivnim odnosom do dela vedno predstavi in najde še kakšno rešitev za moje projekte. Priporočam vsem, ki vrjamejo v sveže in nove ideje s katerimi Saša vedno znova preseneti.
   - name: Someone Else
     business: eaglerare
     content: his is a Spotlight element, and it's generally used – as its name implies – to spotlight a particular feature, subject, or pretty much whatever. You can customize its style, scheme, color, orientation, content a

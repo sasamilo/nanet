@@ -1,10 +1,10 @@
 <section class="about">
     <div class="hero-page">
         <div class="row about">
-            <div class="col herotext">
-                <h1 class="hero-title">Gremo na net!</h1>
-                <p>{{ .Params.about }}</p>
-                <button type="button" class="btn btn-primary">Pošlji sporočilo</button>
+            <div class="col">
+                <h1 class="hero-title">Z zgodbo na splet.</h1>
+                <p class="hero-text">{{ .Params.about }}</p>
+                <button type="button" class="btn">Izberi čas za posvet</button>
                <div class="social"> 
                    {{ range .Params.socialLinks }}
                         <a href="{{ .URL }}"><i class="{{ .icon }}"></i></a>

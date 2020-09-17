@@ -11,6 +11,7 @@ body {
 
 body p {
     font-size: 1em;
+    font-weight: lighter;
 }
 
 .header {
@@ -59,7 +60,7 @@ body p {
 }
 
 .nav-links a:hover {
-    color: lightsalmon;
+    color: orange;
 }
 
 .burger {
@@ -69,7 +70,7 @@ body p {
 .burger div {
     width: 25px;
     height: 3px;
-    background-color: lightcoral;
+    background-color: #06c7db;
     margin: 5px;
     transition: all 0.3s ease;
 }
@@ -148,6 +149,31 @@ h4 {
     font-size: 1em;
 }
 
+
+.button {
+    padding-top: 20px;
+}
+
+.hero-title {
+    line-height: 2em;
+}
+
+.hero-text {
+    padding-top: 1em;
+}
+
+.context {
+    width: 30%;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.5s all ease-in-out;
+}
+
+.context-appear {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
 .hero-title {
     font-family: 'Meddon', cursive;
 }
@@ -207,7 +233,7 @@ h4 {
 .btn {
     color: snow;
     border: none;
-    background-color: lightsalmon;
+    background-color: #06aae8;
     transition: all .3s ease-in;
 }
 
@@ -226,12 +252,21 @@ h4 {
 
 .offer-names {
     font-size: 2em;
+    padding: 0.2em;
+    background-color: papayawhip;
 }
 
-.blockquote {
+.vision {
     padding-left: 1em;
-    border-left: 3px solid lightsalmon;
+    border-left: 3px solid orange;
 }
+
+
+.mission {
+    padding-right: 1em;
+    border-right: 3px solid orange;
+}
+
 
 .vizija {
     padding: 100px 0 100px 120px;
@@ -305,7 +340,6 @@ h4 {
 }
 
 .sponsors {
-    padding-top: 40px;
     display: flex;
     justify-content: center;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -327,9 +361,16 @@ h4 {
     text-align: center;
 }
 
+.thanks {
+    padding: 30px 0 0 300px;
+    font-size: small;
+    font-weight: lighter;
+}
+
 .disclosure {
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     text-align: center;
     font-size: small;
     font-weight: lighter;
 }
+ 

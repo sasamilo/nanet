@@ -3,7 +3,7 @@ title: "NAnet"
 date: 2020-09-03T19:56:10+02:00
 draft: true
 hero: /image/20200913-sasa-portraits-robbymilo-0209.jpg
-about: Imaš malo podjetje in potrebuješ novo spletno stran, pa ne veš kje bi začel? Začniva s tvojo zgodbo...
+about: Razkrij svojo zgodbo, razvij zaupanje v znamko.
 
 socialLinks:
   - icon: "fab fa-github fa-2x"
@@ -20,14 +20,14 @@ blocks:
     content: >-
       ## Moja zgodba
 
-      Leta 2009 me je uspeh v rezultatih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State univerzi in prejela naziv magistre komunikologije.  
+      Leta 2009 me je uspeh v tekmovanjih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State University.
 
       
-      V letih življenja v tujini sem delovala v neprofitnih organizacijah, ter se izpopolnjevala na področju podjetništva v lokalni gospodarski zbornici za razvoj mladih strokovnjakov. Zaradi obsežnosti in hitrega tempa družbe sem se tako pri delu, kot tudi v prostem času zanašala na iskanje informacij po spletu. Po vrnitvi v Slovenijo pa sem opazila potencial za promocijo malih podjetij in kmetovalcev ter predstavitev visoke kakovosti ponudbe celemu svetu.
+      V desetletju življenja v tujini sem med delovanjem v neprofitnem svetu slišala mnogo zgodb. Te so včasih navdihnila nova spoznanja, pogosto pa spremeninjala svet.
       
 
 
-      Od tod se je rodila ideja 'NA net,' podjetja s celostnim pristopom, ki bi nudilo vzpodbudo in podporo, ter z napredno tehnologijo razvijalo zgodbe malih podjetij in kmetovalcev za preboj v digitalno prihodnost. Kot rezultat pa razširilo ponudbo po Evropi in v svetu.
+      Od tod se mi je rodila ideja 'NA net,' podjetja s celostnim pristopom do razvoja vaše zgodbe, ki vas bo predstavila v digitalnem svetu.
       
 
   - position: left
@@ -36,57 +36,63 @@ blocks:
     content: >-
       ## Kako začneva?
 
-      Vsi imamo nekaj v sebi, kar nas naredi posebne, v to sem prepričana. Zdi pa se mi, da je včasih lažje prepoznati dobre vrline v drugih. Jaz jih vedno znova v ponudnikih vrhunske kvalitete, ki pa te svoje skrivnosti še niso predstavili svetu. 
+      Vsi imamo nekaj v sebi, kar nas naredi posebne, o tem sem prepričana. Včasih pa lažje prepoznamo dobre vrline v drugih. Jaz jih vedno znova najdem v ponudnikih vrhunske kvalitete, katerih zgodba še vedno čaka na predstavitev svetu. 
+
+
+      Tudi vas bom vodila skozi proces do odkritja zgodbe, ki jo imate ponuditi svetu in pri tem poudarila vaše adute.
 
 
 
 
 offer:
-  - name: Grič
+  - name: Zgodba
     icon: 
-    business: Blabla
+    business: 
     content: >-
       posvet 1:1
 
 
-      domena/SSL
+      razvoj zgodbe
+
+      
+      kreativa vsebine zgodbe
 
 
-      1 spletna stran
-
-
-      prevod EN/SLO
-  - name: Hrib
-    icon: 
-    business: Primer
-    content: >-
-      posvet 1:1
-
-
-      domena/SSL
-
-
-      do 5 podstrani
-
-
-      prevod EN/SLO
+      večjezična vsebina
 
 
       10 fotografij
-  - name: Gora
-    icon: fas fa-mountain
-    business: Samo za šalo
+  - name: Blog
+    icon: 
+    business: 
     content: >-
       posvet 1:1
 
 
-      domena/SSL
+      razvoj zgodbe
 
 
-      do 10 podstrani
+      kreativa vsebine za blog
 
 
-      prevod EN/SLO
+      večjezična vsebina
+
+
+      10 fotografij
+  - name: Spletna Stran
+    icon: 
+    business: 
+    content: >-
+      posvet 1:1
+
+
+      razvoj zgodbe
+
+
+      domena in gostovanje spletne strani
+
+
+      večjezična vsebina
 
 
       10 fotografij

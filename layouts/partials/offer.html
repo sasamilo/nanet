@@ -7,9 +7,7 @@
                 
                 {{ range .Params.offer }}
                 <div class="col-xs-6 col-md-4">  
-                    <div class="name">
                     <h4 class="offer-names" >{{ .name }}</h4>
-                </div> 
                 <div>
                     <p>{{ .content | markdownify }}</p>
                 </div>
@@ -19,9 +17,16 @@
         </div>
     </section>
     <div class="vizija">
-        <blockquote class="blockquote">
+        <blockquote class="blockquote vision">
             <h4>Vizija</h4>
-            <p class="mb-0">Vzpodbuda in podpora malim podjetjem pri vstopu v digitalno prihodnost.</p>
+            <p class="mb-0">Moja vizija je razvoj zgodb malih podjetij, ki s ponosom predstavljajo svoje delo v svetu.</p>
         </blockquote>
-    </div>  
+    </div>
+    <div class="misija">
+        <blockquote class="blockquote text-right mission">
+            <h4>Misija</h4>
+            <p class="mb-0">Voditi podjetnike do odkritja zgodbe s katero se pozicionirajo na trgu.</p>
+        </blockquote>
+    </div>
+      
 </div>

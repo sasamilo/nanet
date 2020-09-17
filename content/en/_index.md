@@ -1,10 +1,10 @@
 ---
-title: "NAnet"
+title: "ownet"
 date: 2020-09-03T19:56:10+02:00
 draft: true
-hero: /image/20200913-sasa-portraits-robbymilo-0209.jpg
-about: Something in English!!!!
-
+hero: /image/20200913-sasa-portraits-robbymilo-0209-700w.jpg
+about: Bring your story to light.
+heroTitle: Discover your story.
 socialLinks:
   - icon: "fab fa-github fa-2x"
     URL: "https://github.com/sasamilo"
@@ -12,15 +12,15 @@ socialLinks:
     URL: "https://github.com/sasamilo"
   - icon: "fab fa-instagram fa-2x"
     URL: "blablabla.com"
-  
+
 blocks:
   - position: right
-    title: O meni
-    image: /image/20200913-sasa-portraits-robbymilo-0071.jpg
+    title: About
+    image: /image/20200913-sasa-portraits-robbymilo-0071-300w.jpg
     content: >-
-      ## Moja zgodba
+      ## My Story
 
-      Leta 2009 me je uspeh v tekmovanjih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State University.
+      Changes in my life. Leta 2009 me je uspeh v tekmovanjih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State University.
 
       
       V desetletju življenja v tujini sem med delovanjem v neprofitnem svetu slišala mnogo zgodb. Te so včasih navdihnila nova spoznanja, pogosto pa spremeninjala svet.
@@ -31,21 +31,23 @@ blocks:
       
 
   - position: left
-    title: Ponudba
-    image: /image/20200913-sasa-portraits-robbymilo-0085.jpg
+    title: Offer
+    image: /image/20200913-sasa-portraits-robbymilo-0085-300w.jpg
     content: >-
-      ## Kako začneva?
+      ## How do we start?
 
       Vsi imamo nekaj v sebi, kar nas naredi posebne, o tem sem prepričana. Včasih pa lažje prepoznamo dobre vrline v drugih. Jaz jih vedno znova najdem v ponudnikih vrhunske kvalitete, katerih zgodba še vedno čaka na predstavitev svetu. 
 
 
       Tudi vas bom vodila skozi proces do odkritja zgodbe, ki jo imate ponuditi svetu in pri tem poudarila vaše adute.
 
-
+offerContent:
+  name: Services
+  content: Consulting and creative web services with personal approach.
 
 
 offer:
-  - name: Zgodba
+  - name: Creative Content
     icon: 
     business: 
     content: >-
@@ -62,7 +64,7 @@ offer:
 
 
       10 fotografij
-  - name: Blog
+  - name: Strategy
     icon: 
     business: 
     content: >-
@@ -79,7 +81,7 @@ offer:
 
 
       10 fotografij
-  - name: Spletna Stran
+  - name: Whole Web
     icon: 
     business: 
     content: >-
@@ -96,6 +98,12 @@ offer:
 
 
       10 fotografij
+vision:
+  title: Vision
+  text: My mission is to develop stories of small business owners to proudly represent their work in the world.
+mission:
+  title: Mission
+  text: Guide businesses to discover their story and position themselves amongst the competition. 
 gallery:
   title: Galerija
   images:
@@ -115,7 +123,7 @@ testimonial:
     business: eaglerare
     content: his is a Spotlight element, and it's generally used – as its name implies – to spotlight a particular feature, subject, or pretty much whatever. You can customize its style, scheme, color, orientation, content a
 address:
-  business: NAnet
+  business: Na net
   name: Saša Milo Kampič
   street: Drulovka 19
   city: 4000 Kranj

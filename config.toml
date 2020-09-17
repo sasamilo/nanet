@@ -1,6 +1,6 @@
 baseURL = "https://nanet.si/"
 languageCode = "en-us"
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'slo'
 title = "nanet.si"
 disableKinds = ["taxonomy", "term"]
 
@@ -8,10 +8,10 @@ disableKinds = ["taxonomy", "term"]
 contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
-weight = 0
+weight = 1
 
 [languages.slo]
 contentDir = 'content/slo'
 languageCode = 'slo'
 languageName = 'Slovenian'
-weight = 2
+weight = 0

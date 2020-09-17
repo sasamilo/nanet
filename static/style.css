@@ -28,10 +28,31 @@ body p {
     margin-top: -25px;
 }
 
+.lang-menu {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.lang-menu span {
+    color: black;
+}
+
 .navbar {
     display: flex;
     justify-content: space-around;
     background-color: white;
+    align-items: center;
+}
+
+.brand {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.separator {
+    font-size: x-large;
+    padding: 5px;
     align-items: center;
 }
 

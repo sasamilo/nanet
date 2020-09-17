@@ -2,8 +2,8 @@
     {{ range .Params.blocks }}
         {{ if eq .position "left" }}
             <div class="row left">
-                <div class="col d-flex justify-content-center">
-                    <img class="blockpic" src="{{ .image }}">
+                <div class="col align-self-center">
+                    <img class="blockpic rounded mx-auto d-block" src="{{ .image }}">
                 </div>
                 <div class="col context">
                     <div>{{ .content | markdownify }}</div>
@@ -17,8 +17,8 @@
                 <div class="col">
                     <div>{{ .content | markdownify }}</div>
                 </div>
-                <div class="col d-flex justify-content-center">
-                    <img class="blockpic" src="{{ .image }}">
+                <div class="col align-self-center">
+                    <img class="blockpic rounded mx-auto d-block" src="{{ .image }}">
                 </div>
             </div>
         {{ end }}

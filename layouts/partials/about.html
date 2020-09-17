@@ -2,7 +2,9 @@
     <div class="hero-page">
         <div class="row about">
             <div class="col">
-                <h1 class="hero-title">Z zgodbo na splet.</h1>
+                {{ with .Params.heroTitle }}
+                <h1 class="hero-title">{{ . }}</h1>
+                {{ end }}
                 <p class="hero-text">{{ .Params.about }}</p>
                 <button type="button" class="btn">Izberi čas za posvet</button>
                <div class="social"> 

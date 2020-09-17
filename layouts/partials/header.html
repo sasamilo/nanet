@@ -1,19 +1,23 @@
 <nav class="navbar fixed-top navbar-light">
-        <a href="#" class="navbar-brand">
-                <div class="logo-top">NA</div>
-                <div class="logo-bottom">net</div>
-        </a>
-        {{ if .IsTranslated }}
-        <div class="inline-block pl-2 ml-2 border-l border-gray-600">
-                {{ range .Translations }}
-                <a href="{{ .Permalink }}" class="no-underline inline-block px-1">
-                        <span class="font-bold">
-                                {{ .Language | upper }}
-                        </span>
+        <div class="brand">
+                <a href="#" class="navbar-brand">
+                        <div class="logo-top">NA</div>
+                        <div class="logo-bottom">net</div>
                 </a>
+                <span class="separator">|</span>
+                
+                {{ if .IsTranslated }}
+                <div class="lang-menu">
+                        {{ range .Translations }}
+                        <a href="{{ .Permalink }}" class="lang-link">
+                                <span class="font-bold">
+                                        {{ .Language | upper }}
+                                </span>
+                        </a>
+                        {{ end }}
+                </div>
                 {{ end }}
         </div>
-        {{ end }}
        
             <ul class="nav-links">
                 <li><a href="#o-meni">O meni</a></li>

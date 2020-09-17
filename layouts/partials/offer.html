@@ -1,7 +1,9 @@
 <div id="offer" class="offer-space scroll-fix">
     <section class="offer">
-        <h2>Ponudba</h2>
-        <p>Svetovanje in izdelava spletnih strani z osebnim pristopom.</p>
+        {{ with .Params.offerContent }}
+            <h2>{{ .name }}</h2>
+            <p>{{ .content }}</p>
+        {{ end }}
         <div class="ponudba">
             <div class="row row-no-gutters">
                 
@@ -17,15 +19,19 @@
         </div>
     </section>
     <div class="vizija">
+        {{ with .Params.vision }}
         <blockquote class="blockquote vision">
-            <h4>Vizija</h4>
-            <p class="mb-0">Moja vizija je razvoj zgodb malih podjetij, ki s ponosom predstavljajo svoje delo v svetu.</p>
-        </blockquote>
+            <h4>{{ .title }}</h4>
+            <p class="mb-0">{{ .text }}</p>
+        </blockquote> 
+        {{ end }}
     </div>
     <div class="misija">
         <blockquote class="blockquote text-right mission">
-            <h4>Misija</h4>
-            <p class="mb-0">Voditi podjetnike do odkritja zgodbe s katero se pozicionirajo na trgu.</p>
+            {{ with .Params.mission }}
+            <h4>{{ .title }}</h4>
+            <p class="mb-0">{{ .text }}</p>
+            {{ end }}
         </blockquote>
     </div>
       

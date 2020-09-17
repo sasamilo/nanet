@@ -3,6 +3,18 @@
                 <div class="logo-top">NA</div>
                 <div class="logo-bottom">net</div>
         </a>
+        {{ if .IsTranslated }}
+        <div class="inline-block pl-2 ml-2 border-l border-gray-600">
+                {{ range .Translations }}
+                <a href="{{ .Permalink }}" class="no-underline inline-block px-1">
+                        <span class="font-bold">
+                                {{ .Language | upper }}
+                        </span>
+                </a>
+                {{ end }}
+        </div>
+        {{ end }}
+       
             <ul class="nav-links">
                 <li><a href="#o-meni">O meni</a></li>
                 <li><a href="#offer">Storitve</a></li>
@@ -16,3 +28,4 @@
                 <div class="line3"></div>
         </div>
 </nav>
+

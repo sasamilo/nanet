@@ -1,0 +1,56 @@
+[tagged_in]
+other = "Tagged in"
+
+[other_tags]
+other = "Other tags"
+
+[read_more]
+other = "Preberi več"
+
+[name]
+other = "Ime"
+
+[your_message]
+other = "Sporočilo"
+
+[cancel]
+other = "Prenehaj"
+
+[submit]
+other = "Pošlji"
+
+[previous]
+other = "Prejšnji"
+
+[next]
+other = "Naslednji"
+
+[back]
+other = "Nazaj"
+
+[contact]
+other = "Kontakt"
+
+[contact_email]
+other = "Pošlji sporočilo"
+
+[latest_post]
+other = "Najnovejša objava"
+
+[reading_time]
+other = "{{ .ReadingTime }} minutno branje"
+
+[home]
+other = "Domov"
+
+[about]
+other = "O meni"
+
+[blog]
+other = "Blog"
+
+[present]
+other = "Present"
+
+[required_fields]
+other = "Obvezno polje"

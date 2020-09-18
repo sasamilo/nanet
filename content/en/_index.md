@@ -1,7 +1,7 @@
 ---
-title: "ownet"
+title: "NAnet"
 date: 2020-09-03T19:56:10+02:00
-draft: true
+draft: false
 hero: /image/20200913-sasa-portraits-robbymilo-0209-700w.jpg
 about: Bring your story to light on your website.
 heroTitle: Uncover your story.

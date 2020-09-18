@@ -3,15 +3,15 @@ title: "ownet"
 date: 2020-09-03T19:56:10+02:00
 draft: true
 hero: /image/20200913-sasa-portraits-robbymilo-0209-700w.jpg
-about: Bring your story to light.
-heroTitle: Discover your story.
+about: Bring your story to light on your website.
+heroTitle: Uncover your story.
 socialLinks:
   - icon: "fab fa-github fa-2x"
     URL: "https://github.com/sasamilo"
   - icon: "fab fa-linkedin fa-2x"
     URL: "https://github.com/sasamilo"
   - icon: "fab fa-instagram fa-2x"
-    URL: "blablabla.com"
+    URL: "https://www.instagram.com/sasasushi/"
 
 blocks:
   - position: right
@@ -20,14 +20,19 @@ blocks:
     content: >-
       ## My Story
 
-      Changes in my life. Leta 2009 me je uspeh v tekmovanjih iz meta kopja popeljal na študij v Združene države, kjer sem dokončala dodiplomski in nato še podiplomski študij komunikologije na Boise State University.
-
-      
-      V desetletju življenja v tujini sem med delovanjem v neprofitnem svetu slišala mnogo zgodb. Te so včasih navdihnila nova spoznanja, pogosto pa spremeninjala svet.
-      
+      In 2009, after many years of success in javelin throw led me to Boise State University where I joined the Broncos - university's athletics team. At the same time I was enrolled in Communication studies and began studying the complexities of social structures in our societies.
 
 
-      Od tod se mi je rodila ideja 'NA net,' podjetja s celostnim pristopom do razvoja vaše zgodbe, ki vas bo predstavila v digitalnem svetu.
+      In the course of my Master's studies, we held a shared seminar class with the Faculty of Social Sciences in Ljubljana with our professor being a visiting professor there. At that point, I knew I had met my mentor for life, so to speak. It was when I graduated with an M.A. in Communication Studies that same year of 2014, that for the first time, I really began to realize that our world is small.
+
+
+      Since I was always guided by a strong force of helping people, I found myself working in the nonprofit world. I worked in the field of fundraising, marketing, initial resettlement services and advising individuals entering their professional fields. While all along, I participated in program for development of young profesisonals in the local chamber of commerce.
+
+
+      After ten years of living abroad, I felt it was time to return home. This marked the beginning of recognizing the cultural differences between the two continents. It made me recognize the high quality of life that is provided to us by Slovenian small businesses and farmers. With this came the realization that I would like to transfer the knowledge and skills gained abroad in the development of Slovenian products and encourage self-promotion.
+
+
+      From this stemmed the idea of a company "Na net," to encourage stories of Slovenian providers to launch their stories and position themselves on the internet.
       
 
   - position: left
@@ -36,68 +41,31 @@ blocks:
     content: >-
       ## How do we start?
 
-      Vsi imamo nekaj v sebi, kar nas naredi posebne, o tem sem prepričana. Včasih pa lažje prepoznamo dobre vrline v drugih. Jaz jih vedno znova najdem v ponudnikih vrhunske kvalitete, katerih zgodba še vedno čaka na predstavitev svetu. 
+      We all have something in us that makes us special, I’m sure of it. Sometimes, however, it is easier for us to recognize good virtues in others. I find them again and again in the top quality providers whose story is still waiting to be presented to the world.
 
-
-      Tudi vas bom vodila skozi proces do odkritja zgodbe, ki jo imate ponuditi svetu in pri tem poudarila vaše adute.
+      I will guide you through a strucutred process to discover your story, the one that highlights your strengths and makes you stand out in the crowd.
 
 offerContent:
   name: Services
-  content: Consulting and creative web services with personal approach.
+  content: Consulting and creative web services with a personal approach.
 
 
 offer:
-  - name: Creative Content
+  - name: Creative Development of your business story
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-      
-      kreativa vsebine zgodbe
-
-
-      večjezična vsebina
-
-
-      10 fotografij
-  - name: Strategy
+      During a consultation, I will guide you to discover the most important elements that affect your performance and thus develop a story that will highlight your brand on the market.
+  - name: Update of digital conent
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-
-      kreativa vsebine za blog
-
-
-      večjezična vsebina
-
-
-      10 fotografij
-  - name: Whole Web
+      I would review your existing digital tools and prepare creative content to enhance your overall online representation.
+  - name: Integrated Website Development
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-
-      domena in gostovanje spletne strani
-
-
-      večjezična vsebina
-
-
-      10 fotografij
+      During a personal consultation, I will develop your company's story that will differentiate your brand on the market. By combining the advantages you have to offer with the visual content, I will introduce your new digital image to the world.
 vision:
   title: Vision
   text: My mission is to develop stories of small business owners to proudly represent their work in the world.

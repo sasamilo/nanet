@@ -272,9 +272,10 @@ h4 {
 }
 
 .offer-names {
-    font-size: 2em;
+    font-size: 1em;
+    text-transform: uppercase;
     padding: 0.2em;
-    background-color: papayawhip;
+    border-left: 3px solid papayawhip;
 }
 
 .vision {
@@ -308,7 +309,7 @@ h4 {
 
 .ponudba {
     padding-top: 30px;
-    text-align: center;
+    
 }
 
 .name {
@@ -336,9 +337,10 @@ h4 {
 }
 
 .contact-title {
-    padding: 50px 0 20px 0;
     font-family: 'Rubik', sans-serif;
-    font-weight: normal;
+    text-transform: uppercase;
+    padding: 50px 0 20px 0;
+    font-weight: lighter;
 }
 
 .msg-text {
@@ -394,4 +396,13 @@ h4 {
     font-size: small;
     font-weight: lighter;
 }
- 
+
+.comment {
+    padding-top: 200px;
+}
+
+.commtitle {
+    font-family: 'Meddon', cursive;
+    font-size: xx-large;
+}
+

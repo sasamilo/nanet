@@ -11,7 +11,7 @@ socialLinks:
   - icon: "fab fa-linkedin fa-2x"
     URL: "https://github.com/sasamilo"
   - icon: "fab fa-instagram fa-2x"
-    URL: "blablabla.com"
+    URL: "https://www.instagram.com/sasasushi/"
   
 blocks:
   - position: right
@@ -29,7 +29,7 @@ blocks:
       Ker me je vedno vodila močna sila, da bi pomagala ljudem, sem se po študiju našla v neprofitnem svetu. Delovala sem na razvojnem področju za zbiranje sredstev, v marketinških vodah, pomagala ljudem v prvi fazi priseljevanja v novo državo ter svetovanju posameznikom za vstop na trg v njihovi strokovni panogi. Vseskozi pa sem se izpopolnjevala v programu lokalne gospodarske zbornice za mlade strokovnjake.
 
 
-      Po desetih letih sem čutila, da je čas da se vrnem domov. S tem pa se je pričel proces prepoznavanja razlik med dvema celinama. Prepoznavanja visoko kakovostne kvalitete življenja, ki nam jo ponujajo slovenska mala podjetja in kmetovalci. S tem je prišlo spoznanje, da bi rada pomagala k razvoju ponosa slovenskih izdelkov in samopromocije ter na naš trg in prenesla znanja in veščine, ki sem jih osvojila v tujini. 
+      Po desetih letih sem čutila, da je čas da se vrnem domov. S tem pa se je pričel proces prepoznavanja razlik med dvema celinama. Prepoznavanja visoko kakovostne kvalitete življenja, ki nam jo ponujajo slovenska mala podjetja in kmetovalci. S tem je prišlo spoznanje, da bi rada pripomogla k razvoju slovenskih izdelkov in samopromocije ter na naš trg prenesla znanja in veščine, ki sem jih osvojila v tujini. 
 
 
       Tako se je razvila ideja o podjetju "Na net," za vzpodbudo zgodb slovenskih ponudnikov za svetovni splet.
@@ -50,61 +50,25 @@ blocks:
 
 
 offerContent:
-  name: Ponudba
+  name: Kako ti lahko pomagam?
   content: Svetovanje in izdelava spletnih vsebin z osebnim pristopom.
 
 offer:
-  - name: Zgodba
+  - name: Kreativni razvoj zgodbe podjetja
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-      
-      kreativa vsebine zgodbe
-
-
-      večjezična vsebina
-
-
-      10 fotografij
-  - name: Blog
+      Med posvetom vas bom z vprašanji vodila do najpomembnjših elementov, ki vplivajo na vaše delovanje in s tem razvila zgodbo, ki vas bo osvetlila na trgu med konkurenco. 
+  - name: Osvežitev obstoječih digitalnih vsebin
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-
-      kreativa vsebine za blog
-
-
-      večjezična vsebina
-
-
-      10 fotografij
-  - name: Spletna Stran
+      Pregledala bi vaša že obstoječe digitalna orodja ter pripravila kreativne vsebine za okrepitev celostnega izgleda.
+  - name: Celostni razvoj spletne strani
     icon: 
     business: 
     content: >-
-      posvet 1:1
-
-
-      razvoj zgodbe
-
-
-      domena in gostovanje spletne strani
-
-
-      večjezična vsebina
-
-
-      10 fotografij
+      Med osebnim posvetom bom razvila zgodbo vašga podjetja za diferenciacijo vaše znamke na trgu. Z združitvijo prednosti, ki jih ponujate ter vizualno vsebino - fotografij, vas bom predstavila v svetu z novo digitalno podobo.
 vision:
   title: Vizija
   text: Moja vizija je razvoj zgodb malih podjetij, ki s ponosom predstavljajo svoje delo v svetu.
@@ -130,10 +94,10 @@ testimonial:
     business: eaglerare
     content: his is a Spotlight element, and it's generally used – as its name implies – to spotlight a particular feature, subject, or pretty much whatever. You can customize its style, scheme, color, orientation, content a
 address:
-  business: Na net
+  business: 
   name: Saša Milo Kampič
-  street: Drulovka 19
-  city: 4000 Kranj
+  street: 
+  city:  
   phone: 064 209 327
   email: info@nanet.si
 logos:

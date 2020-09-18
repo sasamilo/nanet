@@ -6,7 +6,8 @@
                 <h1 class="hero-title">{{ . }}</h1>
                 {{ end }}
                 <p class="hero-text">{{ .Params.about }}</p>
-                <button type="button" class="btn">Izberi čas za posvet</button>
+               <a href="mailto:sasakampic@gmail.com" type="button" class="btn">Piši mi za posvet</a>
+            </a>
                <div class="social"> 
                    {{ range .Params.socialLinks }}
                         <a href="{{ .URL }}"><i class="{{ .icon }}"></i></a>
@@ -15,7 +16,7 @@
             </div>
 
             <div class="col">
-                <img class="hero" src="{{ .Params.hero }}">
+                <img class="hero rounded" src="{{ .Params.hero }}">
             </div>
         </div>
     </div>

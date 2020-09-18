@@ -20,19 +20,19 @@ blocks:
     content: >-
       ## My Story
 
-      In 2009, after many years of success in javelin throw led me to Boise State University where I joined the Broncos - university's athletics team. At the same time I was enrolled in Communication studies and began studying the complexities of social structures in our societies.
+      In 2009 my hard work in javelin throw paid off when I joined Boise State University Broncos track and field team. At the same time I was enrolled in Communication studies and began exploration in the complexity of our social structures.
 
 
-      In the course of my Master's studies, we held a shared seminar class with the Faculty of Social Sciences in Ljubljana with our professor being a visiting professor there. At that point, I knew I had met my mentor for life, so to speak. It was when I graduated with an M.A. in Communication Studies that same year of 2014, that for the first time, I really began to realize that our world is small.
+      In the course of my Master's studies, we held a shared seminar class with the University of Social Sciences in Ljubljana with our professor as a visiting lecturer there. At that point, I knew I had met my mentor for life, so to speak. It was that same year in 2014 when I graduated with an M.A. in Communication Studies that for the first time I realized through a series of events how we can be at a different part of the world, but somehow connected at the same time.
 
 
-      Since I was always guided by a strong force of helping people, I found myself working in the nonprofit world. I worked in the field of fundraising, marketing, initial resettlement services and advising individuals entering their professional fields. While all along, I participated in program for development of young profesisonals in the local chamber of commerce.
+      Since my graduation, I was guided by the wish of helping people and quickly found myself working in the nonprofit world. I worked in the field of fundraising, marketing, initial resettlement services and advising individuals entering their professional fields. Throughout this time, I participated in young profesisonals development program in the local chamber of commerce.
 
 
-      After ten years of living abroad, I felt it was time to return home. This marked the beginning of recognizing the cultural differences between the two continents. It made me recognize the high quality of life that is provided to us by Slovenian small businesses and farmers. With this came the realization that I would like to transfer the knowledge and skills gained abroad in the development of Slovenian products and encourage self-promotion.
+      After ten years of living abroad, I felt it was time to return home. This made me more aware and notice nuances of the cultural differences between the two continents. It made me recognize the high quality of life that is provided to us by Slovenian small businesses and farmers. With this came the realization that I would like to transfer the knowledge and skills gained abroad in the development of Slovenian products and encourage self-promotion.
 
 
-      From this stemmed the idea of a company "Na net," to encourage stories of Slovenian providers to launch their stories and position themselves on the internet.
+      From this stemmed the idea of a company "Na net," to encourage stories of Slovenian providers to launch their stories and position themselves with digital content.
       
 
   - position: left

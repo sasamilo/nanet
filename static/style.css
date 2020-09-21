@@ -209,6 +209,12 @@ h4 {
     width: 700px;
 }
 
+@media screen and (max-width:768px){
+    .hero {
+        width: 300px;
+    }
+}
+
 .img-rounded {
    width: 300px;
 }

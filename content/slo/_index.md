@@ -20,10 +20,13 @@ blocks:
     content: >-
       ## Moja zgodba
 
+      Ko sem se po desetih letih življenja v tujini vrnila v Slovenijo, sem opazila potencial za okrepitev digitalizacije za promocijo malih podjetij in kmetovalcev. 
+
+
       Leta 2009 so me dolgoletne izkušnje in rezultati v tekmovanjih iz meta kopja popeljale na študij v Združene države, kjer sem se pridružila altetski ekipi univerze. Šport tam deluje v sklopu višješolskega izobraževanja, tako da sem hkrati med študijem komunikologije začela osvajati kompleksna znanja, ki so odražala delovanja družbe v kateri živimo.  
 
 
-      V obdobju magisterija, smo v enem od seminarjev sodelovali s Fakulteto za družbene vede v Ljubljani, kamor se je naš profesor podal na gostovanje. In tako sem dobila mentorja tako rekoč, za vse življenje. Ko sem še istega leta 2014 diplomirala iz komunikologije, sem se prvič zares začela zavedati o tem kako majhen je svet. 
+      V obdobju magisterija, smo v enem od seminarjev sodelovali s Fakulteto za družbene vede v Ljubljani, kamor se je naš profesor podal na gostovanje. Ko sem še istega leta 2014 diplomirala iz komunikologije, sem se prvič zares začela zavedati o tem kako majhen je svet. 
 
 
       Ker me je vedno vodila močna sila, da bi pomagala ljudem, sem se po študiju našla v neprofitnem svetu. Delovala sem na razvojnem področju za zbiranje sredstev, v marketinških vodah, pomagala ljudem v prvi fazi priseljevanja v novo državo ter svetovanju posameznikom za vstop na trg v njihovi strokovni panogi. Vseskozi pa sem se izpopolnjevala v programu lokalne gospodarske zbornice za mlade strokovnjake.

@@ -18,21 +18,23 @@
             </div>
         </div>
     </section>
-    <div class="vizija">
-        {{ with .Params.vision }}
-        <blockquote class="blockquote vision">
-            <h4>{{ .title }}</h4>
-            <p class="mb-0">{{ .text }}</p>
-        </blockquote> 
-        {{ end }}
-    </div>
-    <div class="misija">
-        <blockquote class="blockquote text-right mission">
-            {{ with .Params.mission }}
-            <h4>{{ .title }}</h4>
-            <p class="mb-0">{{ .text }}</p>
+</div>
+    <div class="why">
+        <div class="vizija">
+            {{ with .Params.vision }}
+            <blockquote class="blockquote vision">
+                <h4>{{ .title }}</h4>
+                <p class="mb-0">{{ .text }}</p>
+            </blockquote> 
             {{ end }}
-        </blockquote>
+        </div>
+        <div class="misija">
+            <blockquote class="blockquote text-right mission">
+                {{ with .Params.mission }}
+                <h4>{{ .title }}</h4>
+                <p class="mb-0">{{ .text }}</p>
+                {{ end }}
+            </blockquote>
+        </div>
     </div>
       
-</div>

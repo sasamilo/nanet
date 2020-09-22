@@ -312,8 +312,12 @@ h4 {
     padding-top: 150px;
 }
 
-.offer {
+.offer-space {
     align-content: center;
+    background-color: #f3f4f5;
+    padding: 70px 50px 50px;
+    border-radius: 50px;
+    margin-top: 100px;
 }
 
 .offer-names {

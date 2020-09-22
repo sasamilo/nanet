@@ -1,4 +1,8 @@
 <section class="about">
+    <div class="blob">
+        <img class="blob-background" src="/svgs/blob.svg">
+        <img class="blob-side" src="/svgs/blob1.svg">
+    </div>
     <div class="hero-page">
         <div class="row about">
             <div class="col">
@@ -6,7 +10,10 @@
                 <h1 class="hero-title">{{ . }}</h1>
                 {{ end }}
                 <p class="hero-text">{{ .Params.about }}</p>
-               <a href="mailto:sasakampic@gmail.com" type="button" class="btn">Piši mi za posvet</a>
+               <a href="mailto:sasakampic@gmail.com" class="btn-platform">
+                    <i class="far fa-envelope"></i>
+                   <div class="btn-platform-text">Piši mi za posvet</div>
+               </a>
             </a>
                <div class="social"> 
                    {{ range .Params.socialLinks }}

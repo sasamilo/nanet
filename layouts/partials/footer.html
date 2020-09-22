@@ -1,13 +1,15 @@
-<div class="footer">
-    <p class="thanks">Zahvala za podporo:</p>
-    <ul class="sponsors">
-        <li class="sponsor-logos">
-        {{ range .Params.logos }}
-            <img class="sponsor-logos" src="{{ . }}">
-        {{ end }}
-            </a>
-        </li>
-    </ul>  
-    <p class="copyright">Copyright© 2020 NAnet</p>
-    <p class="disclosure">Stran je zgrajena s <a href="https://gohugo.io/">Hugo</a>m in gostuje na <a href="https://www.netlify.com/">Netlify</a>u. Koda je dostopna in gostuje na <a href="https://github.com/">Github</a>u.</p>
-</div>
+    <div class="footer">
+        <div class="container footer-info">
+        <p class="thanks">Zahvala za podporo:</p>
+        <ul class="sponsors">
+            <li class="sponsor-logos">
+            {{ range .Params.logos }}
+                <img class="sponsor-logos" src="{{ . }}">
+            {{ end }}
+                </a>
+            </li>
+        </ul>  
+        <p class="copyright">Copyright© 2020 NAnet</p>
+        <p class="disclosure">Stran je zgrajena s <a href="https://gohugo.io/">Hugo</a>m in gostuje na <a href="https://www.netlify.com/">Netlify</a>u. Koda je dostopna in gostuje na <a href="https://github.com/">Github</a>u.</p>
+        </div>
+    </div>

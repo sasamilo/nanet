@@ -170,6 +170,28 @@ h4 {
     font-size: 1em;
 }
 
+.btn-platform {
+    display: flex;
+    padding: 15px 40px;
+    border: 2px solid #273437;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    width: 280px;
+}
+
+.btn-platform-text {
+    color: #273437;
+    font-size: 18px;
+    margin-left: 12px;
+    transition: all 0.3s ease-in-out;
+}
+
+.far {
+    color: #273437;
+    text-decoration: none;
+}
 
 .button {
     padding-top: 20px;
@@ -247,6 +269,23 @@ h4 {
 
 .about {
     padding: 50px 0 50px 0;
+}
+
+.blob-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -99;
+    width: 65%;
+}
+
+
+.blob-side {
+    position: absolute;
+    top: -230px;
+    right: -150px;
+    width: 48%;
+    opacity: 30%;
 }
 
 .left {
@@ -359,13 +398,29 @@ h4 {
 
 .footer {
     font-family: 'Rubik', sans-serif;
-    background-color: rgb(210 210 210);
+    position: relative;
+    padding: 220px 0 120px;
+    overflow: hidden;
+    background: url(/svgs/waves.svg);
+    background-size: cover;
+}
+
+.footer-info {
+    z-index: 10;
 }
 
 .address {
     justify-content: center;
     padding: 120px;
     font-weight: lighter;
+}
+
+.contact-img {
+    position: absolute;
+    height: 300px;
+    z-index: -99;
+    top: 30px;
+    right: -10px;
 }
 
 .sponsors {

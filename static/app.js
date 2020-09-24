@@ -19,15 +19,3 @@ const navSlide = () => {
 }
 
 navSlide();
-
-function scrollAppear() {
-    var conText = document.querySelector('.context');
-    var introPosition = conText.getBoundingClientRect().top;
-    var screenPosition = window.innerHeight / 1.2;
-
-    if (introPosition < screenPosition) {
-        conText.classList.add('context-appear');
-    }
-}
-
-window.addEventListener('scroll', scrollAppear);

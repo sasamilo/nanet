@@ -6,13 +6,14 @@
     <div class="hero-page">
         <div class="row about">
             <div class="col">
+                <span class="pretext">{{ .Params.pretext }}</span>
                 {{ with .Params.heroTitle }}
                 <h1 class="hero-title">{{ . }}</h1>
                 {{ end }}
                 <p class="hero-text">{{ .Params.about }}</p>
                <a href="mailto:sasakampic@gmail.com" class="btn-platform">
                     <i class="far fa-envelope"></i>
-                   <div class="btn-platform-text">Piši mi za posvet</div>
+                   <div class="btn-platform-text">{{ .Params.CTA }}</div>
                </a>
             </a>
                <div class="social"> 

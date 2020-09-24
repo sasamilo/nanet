@@ -3,8 +3,10 @@ title: "NAnet"
 date: 2020-09-03T19:56:10+02:00
 draft: false
 hero: /image/20200913-sasa-portraits-robbymilo-0209-700w.jpg
-about: Razkrij svojo zgodbo, razvij zaupanje v znamko.
-heroTitle: Z zgodbo na splet.
+pretext: zgodba
+about: Dvignite svoje podjetje na naslednjo raven
+heroTitle: Naj vas ponese na splet.
+CTA: Piši mi za posvet
 socialLinks:
   - icon: "fab fa-github fa-2x"
     URL: "https://github.com/sasamilo"
@@ -29,13 +31,15 @@ blocks:
       V obdobju magisterija, smo v enem od seminarjev sodelovali s Fakulteto za družbene vede v Ljubljani, kamor se je naš profesor podal na gostovanje. Ko sem še istega leta 2014 diplomirala iz komunikologije, sem se prvič zares začela zavedati o tem kako majhen je svet. 
 
 
-      Ker me je vedno vodila močna sila, da bi pomagala ljudem, sem se po študiju našla v neprofitnem svetu. Delovala sem na razvojnem področju za zbiranje sredstev, v marketinških vodah, pomagala ljudem v prvi fazi priseljevanja v novo državo ter svetovanju posameznikom za vstop na trg v njihovi strokovni panogi. Vseskozi pa sem se izpopolnjevala v programu lokalne gospodarske zbornice za mlade strokovnjake.
+      Ker me je vedno vodila močna sila, da bi pomagala ljudem, sem se po študiju našla v neprofitnem svetu. Delovala sem na razvojnem področju za zbiranje sredstev, v marketinških vodah, pomagala ljudem v prvi fazi priseljevanja v novo državo ter svetovanju posameznikom za vstop na trg v njihovi strokovni panogi, zraven pa se izpopolnjevala v programu lokalne gospodarske zbornice za mlade strokovnjake.
+
+      Vseskozi sem pri delu uporabljala več programskih oprem hkrati, urejala spletne strani in ustvarjala marketinške vsebine. V kreativnem procesu in hkrati sistematiziranem načinu dela sem našla veselje.
 
 
-      Po desetih letih sem čutila, da je čas da se vrnem domov. S tem pa se je pričel proces prepoznavanja razlik med dvema celinama. Prepoznavanja visoko kakovostne kvalitete življenja, ki nam jo ponujajo slovenska mala podjetja in kmetovalci. S tem je prišlo spoznanje, da bi rada pripomogla k razvoju slovenskih izdelkov in samopromocije ter na naš trg prenesla znanja in veščine, ki sem jih osvojila v tujini. 
+      Po desetih letih sem čutila, da je čas da se vrnem domov. Začela sem prepoznavati razlike med dvema celinama, predvsem visoko kakovostne izdelke in storive, ki nam jih ponujajo slovenska mala podjetja in kmetovalci. S tem sem prišla do spoznanja, da bi rada pripomogla k razvoju slovenskih izdelkov in samopromocije ter na naš trg prenesla znanja in veščine, ki sem jih osvojila v tujini. 
 
 
-      Tako se je razvila ideja o podjetju "Na net," za vzpodbudo zgodb slovenskih ponudnikov za svetovni splet.
+      Tako se je razvila ideja o podjetju "Na net," razvoj zgodb slovenskih ponudnikov za svetovni splet.
 
       
       

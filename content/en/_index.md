@@ -3,8 +3,10 @@ title: "NAnet"
 date: 2020-09-03T19:56:10+02:00
 draft: false
 hero: /image/20200913-sasa-portraits-robbymilo-0209-700w.jpg
+pretext: Storytelling
 about: Bring your story to light on your website.
 heroTitle: Uncover your story.
+CTA: Schedule a meeting
 socialLinks:
   - icon: "fab fa-github fa-2x"
     URL: "https://github.com/sasamilo"

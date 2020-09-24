@@ -197,6 +197,13 @@ h4 {
     padding-top: 20px;
 }
 
+.pretext {
+    text-transform: uppercase;
+    color: #ff6584;
+    font-weight: normal;
+    padding-bottom: 10px;
+    letter-spacing: 3px;   
+}
 .hero-text {
     padding-top: 1em;
 }
@@ -271,6 +278,8 @@ h4 {
     position: absolute;
     top: 0;
     left: 0;
+    top: -30px;
+    left: -30px;
     z-index: -99;
     width: 65%;
 }
@@ -281,6 +290,15 @@ h4 {
     right: -150px;
     width: 48%;
     opacity: 30%;
+    overflow: hidden;
+}
+
+.blob-top {
+    position: absolute;
+    width: 200px;
+    top: 0;
+    right: -300px;
+    width: 48%;
 }
 
 .hero-icon {

@@ -46,6 +46,12 @@ other = "Domov"
 [about]
 other = "O meni"
 
+[offer]
+other = "Storitve"
+
+[reference] 
+other = "Reference"
+
 [blog]
 other = "Blog"
 
@@ -54,3 +60,6 @@ other = "Present"
 
 [required_fields]
 other = "Obvezno polje"
+
+[opinion]
+other = "Kaj drugi menijo o meni"

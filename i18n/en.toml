@@ -46,6 +46,12 @@ other = "Home"
 [about]
 other = "About"
 
+[offer]
+other = "Services"
+
+[reference]
+other = "References"
+
 [blog]
 other = "Blog"
 
@@ -54,3 +60,6 @@ other = "Present"
 
 [required_fields]
 other = "Required fields"
+
+[opinion]
+other = "What others are saying about me"

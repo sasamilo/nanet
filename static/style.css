@@ -155,6 +155,7 @@ body p {
 }
 
 h1 {
+    font-family: 'IM Fell Double Pica', serif;
     font-weight: bold;
     font-size: 4em;
 }
@@ -162,7 +163,7 @@ h1 {
 h2 {
     font-weight: bold;
     font-size: 2.5em;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'IM Fell Double Pica', serif;
     padding-bottom: 15px;
 }
 
@@ -218,10 +219,6 @@ h4 {
 .context-appear {
     opacity: 1;
     transform: translateY(0px);
-}
-
-.hero-title {
-    font-family: 'Rubik', sans-serif;
 }
 
 .hero-page {
@@ -406,7 +403,6 @@ h4 {
 }
 
 .contact-title {
-    font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
     padding: 50px 0 20px 0;
     font-weight: lighter;
@@ -487,7 +483,7 @@ h4 {
 }
 
 .commtitle {
-    font-family: 'Meddon', cursive;
+    font-family: 'IM Fell Double Pica', serif;
     font-size: xx-large;
 }
 
